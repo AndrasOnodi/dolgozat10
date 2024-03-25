@@ -1,7 +1,0 @@
-C:\Users\Diak\dev\oap\C#\szamla osztaly\Console\bin\Debug\Console.exe.config
-C:\Users\Diak\dev\oap\C#\szamla osztaly\Console\bin\Debug\Console.exe
-C:\Users\Diak\dev\oap\C#\szamla osztaly\Console\bin\Debug\Console.pdb
-C:\Users\Diak\dev\oap\C#\szamla osztaly\Console\obj\Debug\Console.csproj.AssemblyReference.cache
-C:\Users\Diak\dev\oap\C#\szamla osztaly\Console\obj\Debug\Console.csproj.CoreCompileInputs.cache
-C:\Users\Diak\dev\oap\C#\szamla osztaly\Console\obj\Debug\Console.exe
-C:\Users\Diak\dev\oap\C#\szamla osztaly\Console\obj\Debug\Console.pdb
